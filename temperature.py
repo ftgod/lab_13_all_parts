@@ -18,7 +18,7 @@ Please enter a temperature in celsius
 37.0 degrees celsius is 98.6 degrees fahrenheit
 """
 
-c = raw_input('what is the temperature NON LAZER DUDE?')
+c = raw_input('What is the temperature NON FIRIN LAZER DUDE!?')
 f = (9/5.0)*int(c)+32
 print(f)
-
+print("Above this line is the temperature in Fahrenheit")

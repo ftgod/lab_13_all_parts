@@ -25,7 +25,8 @@ Askin' questions cause' they got all the answers.
 print(""""I wonder if I'll take you there,
 Would you believe in fairy tales, oh
 A place where no one feels the pain,
-Living without suffering""")
+Living without suffering"
+""")
 
 loud = raw_input('I wonder if I will take you there,\nWould you believe in fairy tales, oh\nA place where no one feels the pain,\nLiving without suffering')
 
